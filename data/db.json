@@ -1,0 +1,17 @@
+{
+    "blogs": [
+        {
+            "title":"the first blog",
+            "body":"this text should be the body of the blog, you can add any text u want like for example bla bla bla bla and leo ebo lebo .",
+            "auother":"mario",
+            "id":1
+        },
+        {
+            "title":"the second blog",
+            "body":"this text should be the body of the blog, you can add any text u want like for example bla bla bla bla and leo ebo lebo .",
+            "auother":"mehmet",
+            "id":2
+        }
+
+    ]
+}
